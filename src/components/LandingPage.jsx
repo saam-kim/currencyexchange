@@ -101,7 +101,7 @@ export default function LandingPage({
         <div className="logo-section">
           <h1 style={{ color: 'var(--color-primary)', fontSize: '1.4rem' }}>
             <TrendingUp size={24} style={{ color: 'var(--color-primary)' }} />
-            꿈·돈·길
+            환율 파도타기
           </h1>
         </div>
       </header>
@@ -110,7 +110,6 @@ export default function LandingPage({
       <main className="landing-grid">
         {/* Left Side: Branding, description & teacher entry */}
         <section className="landing-left">
-          <span className="landing-badge">금융 교육 시뮬레이터</span>
           <h2>
             환율 파도타기:
             <span>글로벌 자산가</span>
